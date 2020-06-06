@@ -4,6 +4,6 @@ collection: publications
 permalink: /publications/coflow
 date: 2017
 venue: 'IPCO'
-paperurl: 'http://sabaahmadi.github.io/files/coflow.pdf'
+paperurl: 'https://sabaahmadi.github.io/files/coflow.pdf'
 ---
-[Download paper here](http://sabaahmadi.github.io/files/coflow.pdf)
+[Download paper here](https://sabaahmadi.github.io/files/coflow.pdf)
