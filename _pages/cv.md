@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Download my CV [here](https://sabaahmadi.github.io/files/saba-cv.pdf)
+Download my CV [here](https://sabaahmadi.github.io/files/sabaahmadi.pdf)
