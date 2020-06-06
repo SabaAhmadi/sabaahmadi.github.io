@@ -1,7 +1,7 @@
 ---
 title: "On Scheduling Coflows"
 collection: Conference Publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/coflow
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017
 venue: 'IPCO'
