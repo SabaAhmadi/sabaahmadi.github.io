@@ -1,6 +1,6 @@
 ---
 title: "On Scheduling Coflows"
-collection: Conference Publications
+collection: publications
 permalink: /publications/coflow
 date: 2017
 venue: 'IPCO'
