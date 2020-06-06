@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About"
-    url: https://sabaahmadi.github.io/index.html
+    url: /index.html
     
   - title: "Publications"
-    url: https://sabaahmadi.github.io/publications/    
+    url: /publications/    
     
   - title: "CV"
-    url: https://sabaahmadi.github.io/cv/
+    url: /cv/
