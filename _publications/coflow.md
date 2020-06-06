@@ -1,8 +1,7 @@
 ---
 title: "On Scheduling Coflows"
 collection: Conference Publications
-permalink: /publications/coflow
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publications/
 date: 2017
 venue: 'IPCO'
 paperurl: 'http://sabaahmadi.github.io/files/coflow.pdf'
