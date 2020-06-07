@@ -12,14 +12,8 @@ author_profile: true
 
 **On Scheduling Coflows** with Samir Khuller, Manish Purohit, Sheng Yang. IPCO 2017, ([long version](https://sabaahmadi.github.io/files/coflow.pdf))
 
-## Working Papers
+### Working Papers
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Fair Correlation Clustering** with Sainyam Galhotra, Barna Saha, Roy Schwartz, ([arxiv version](https://arxiv.org/abs/2002.03508))
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**The Landscape of Precision Cancer Combination Therapy: A Single-Cell Perspective** with Pattara Sukprasert, Natalie Artzi, Samir Khuller, Alejandro A. Schäffer, and Eytan Ruppin, ([biorxiv version](https://www.biorxiv.org/content/10.1101/2020.01.28.923532v1))
