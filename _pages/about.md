@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in computer science at University of Maryland, College Park. My research is on algorithms and its applications to societal aspects of AI/ML. My advisor is Prof. [Samir Khuller](http://www.cs.umd.edu/users/samir/).
+I am a PhD candidate in computer science at University of Maryland, College Park. I am interested in combinatorial optimization, approximation algorithms, learning theory, and the social aspects of algorithms. My advisor is Prof. [Samir Khuller](http://www.cs.umd.edu/users/samir/).
