@@ -6,6 +6,8 @@ author_profile: true
 ---
 ## Conference Publications
 
+
+
 **The Strategic Perceptron** with Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. EC 2021, ([arxiv version](https://arxiv.org/pdf/2008.01710.pdf))
 
 **An Algorithm for Multi-Attribute Diverse Matching** with Faez Ahmed, John P. Dickerson, Mark Fuge, and Samir Khuller. IJCAI 2020, ([arxiv version](https://arxiv.org/pdf/1909.03350.pdf))
@@ -14,7 +16,11 @@ author_profile: true
 
 **On Scheduling Coflows** with Samir Khuller, Manish Purohit, and Sheng Yang. IPCO 2017, ([long version](https://sabaahmadi.github.io/files/coflow.pdf))
 
-## Working Papers
+## Manuscripts
+
+**Individual Preference Stability for Clustering** with Pranjal Awasthi, Samir Khuller, Matth{\"a}us Kleindessner, Jamie Morgenstern, Pattara Sukprasert, Ali Vakilian. Under Submission.
+
+**On Classification of Strategic Agents who Can Both Game and Improve** with Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. Under Submission.
 
 **Fair Correlation Clustering** with Sainyam Galhotra, Barna Saha, and Roy Schwartz, ([arxiv version](https://arxiv.org/abs/2002.03508))
 
