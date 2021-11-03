@@ -24,7 +24,7 @@ I am a postdoctoral researcher at Toyota Technological Institute at Chicago (TTI
 
 ## Manuscripts
 
-**Individual Preference Stability for Clustering** with Pranjal Awasthi, Samir Khuller, Matth"aus Kleindessner, Jamie Morgenstern, Pattara Sukprasert, Ali Vakilian. Under Submission.
+**Individual Preference Stability for Clustering** with Pranjal Awasthi, Samir Khuller, Matthäus Kleindessner, Jamie Morgenstern, Pattara Sukprasert, Ali Vakilian. Under Submission.
 
 **On Classification of Strategic Agents who Can Both Game and Improve** with Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. Under Submission.
 
