@@ -31,5 +31,5 @@ Contact: "[firstname]@ttic.edu"
 
 **Fair Correlation Clustering** with Sainyam Galhotra, Barna Saha, and Roy Schwartz, ([arxiv version](https://arxiv.org/abs/2002.03508))
 
-**The Landscape of Precision Cancer Combination Therapy: A Single-Cell Perspective** with Pattara Sukprasert, Natalie Artzi, Samir Khuller, Alejandro A. Schäffer, and Eytan Ruppin, ([biorxiv version](https://www.biorxiv.org/content/10.1101/2020.01.28.923532v1))
+**The Landscape of Precision Cancer Combination Therapy: A Single-Cell Perspective** with Pattara Sukprasert, Rahulsimham Vegesna,  Sanju Sinha, Fiorella Schischlik, Natalie Artzi, Samir Khuller, Alejandro A. Schäffer, and Eytan Ruppin, ([biorxiv version](https://www.biorxiv.org/content/10.1101/2020.01.28.923532v4.full.pdf+html))
 
