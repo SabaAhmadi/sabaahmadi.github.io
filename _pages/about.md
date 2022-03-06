@@ -30,7 +30,7 @@ Contact: "[firstname]@ttic.edu"
 
 **On Classification of Strategic Agents who Can Both Game and Improve** with Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. ([arxiv version](https://arxiv.org/pdf/2203.00124.pdf))
 
-**Setting Fair Incentives to Maximize Improvement** with Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. ([arxiv version](https://arxiv.org/pdf/2203.00134.pdf)
+**Setting Fair Incentives to Maximize Improvement** with Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. ([arxiv version](https://arxiv.org/pdf/2203.00134.pdf))
 
 **Fair Correlation Clustering** with Sainyam Galhotra, Barna Saha, and Roy Schwartz, ([arxiv version](https://arxiv.org/abs/2002.03508))
 
