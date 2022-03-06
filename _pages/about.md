@@ -26,7 +26,7 @@ Contact: "[firstname]@ttic.edu"
 **The Landscape of Receptor-Mediated Precision Cancer Combination Therapy: A Single-Cell Perspective** with Pattara Sukprasert, Rahulsimham Vegesna,  Sanju Sinha, Fiorella Schischlik, Natalie Artzi, Samir Khuller, Alejandro A. Schäffer, and Eytan Ruppin, To Appear in Nature Communications. ([biorxiv version](https://www.biorxiv.org/content/10.1101/2020.01.28.923532v4.full.pdf+html))
 
 
-## Manuscripts
+## Manuscripts 
 
 **On Classification of Strategic Agents who Can Both Game and Improve** with Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. ([arxiv version](https://arxiv.org/pdf/2203.00124.pdf))
 
