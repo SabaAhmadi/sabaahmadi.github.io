@@ -24,13 +24,13 @@ Contact: "[firstname]@ttic.edu"
 
 **On Scheduling Coflows** <sup>abc</sup> Saba Ahmadi, Samir Khuller, Manish Purohit, and Sheng Yang. IPCO 2017. Full version appeared in Algorithmica. ([long version](https://sabaahmadi.github.io/files/coflow.pdf))
 
-**The Landscape of Receptor-Mediated Precision Cancer Combination Therapy: A Single-Cell Perspective** Saba Ahmadi<sup>*</sup>, Pattara Sukprasert<sup>**</sup>, Rahulsimham Vegesna,  Sanju Sinha, Fiorella Schischlik, Natalie Artzi, Samir Khuller, Alejandro A. Schäffer, and Eytan Ruppin, Nature Communications.(<sup>*</sup>, <sup>**</sup> equal contribution.) ([biorxiv version](https://www.biorxiv.org/content/10.1101/2020.01.28.923532v4.full.pdf+html))
+**The Landscape of Receptor-Mediated Precision Cancer Combination Therapy: A Single-Cell Perspective** Saba Ahmadi<sup>1</sup>, Pattara Sukprasert<sup>2</sup>, Rahulsimham Vegesna,  Sanju Sinha, Fiorella Schischlik, Natalie Artzi, Samir Khuller, Alejandro A. Schäffer, and Eytan Ruppin, Nature Communications.(<sup>1</sup>, <sup>2</sup> equal contribution.) ([biorxiv version](https://www.biorxiv.org/content/10.1101/2020.01.28.923532v4.full.pdf+html))
 
 
 ## Manuscripts 
 
-**Setting Fair Incentives to Maximize Improvement** with Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita (alphabetical order). ([arxiv version](https://arxiv.org/pdf/2203.00134.pdf))
+**Setting Fair Incentives to Maximize Improvement** <sup>abc</sup> Saba Ahmadi, Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. ([arxiv version](https://arxiv.org/pdf/2203.00134.pdf))
 
-**Fair Correlation Clustering** with Sainyam Galhotra, Barna Saha, and Roy Schwartz (alphabetical order), ([arxiv version](https://arxiv.org/abs/2002.03508))
+**Fair Correlation Clustering** <sup>abc</sup> Saba Ahmadi, Sainyam Galhotra, Barna Saha, and Roy Schwartz, ([arxiv version](https://arxiv.org/abs/2002.03508))
 
 
