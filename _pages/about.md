@@ -20,7 +20,7 @@ Contact: "[firstname]@ttic.edu"
 
 **An Algorithm for Multi-Attribute Diverse Matching** with Faez Ahmed, John P. Dickerson, Mark Fuge, and Samir Khuller. IJCAI 2020, ([arxiv version](https://arxiv.org/pdf/1909.03350.pdf))
 
-**Min-Max Correlation Clustering via Multicut** {}^{abc} with Samir Khuller, and Barna Saha (alphabetical order). IPCO 2019, ([conference version](https://link.springer.com/chapter/10.1007/978-3-030-17953-3_2))
+**Min-Max Correlation Clustering via Multicut** <sup>abc</sup> with Samir Khuller, and Barna Saha (alphabetical order). IPCO 2019, ([conference version](https://link.springer.com/chapter/10.1007/978-3-030-17953-3_2))
 
 **On Scheduling Coflows** with Samir Khuller, Manish Purohit, and Sheng Yang (alphabetical order). IPCO 2017. Full version appeared in Algorithmica. ([long version](https://sabaahmadi.github.io/files/coflow.pdf))
 
