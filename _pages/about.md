@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at Toyota Technological Institute at Chicago (TTIC) hosted by [Prof. Avrim Blum](https://home.ttic.edu/~avrim/). Prior to joining TTIC I did my PhD at University of Maryland College Park where I was advised by [Prof. Samir Khuller](http://www.cs.umd.edu/users/samir/). During my PhD, I visited Northwestern University for 2 years. I am interested in learning theory, algorithmic fairness, and combinatorial optimization.
+I am a postdoctoral researcher at Toyota Technological Institute at Chicago (TTIC) hosted by [Prof. Avrim Blum](https://home.ttic.edu/~avrim/). Prior to joining TTIC I did my PhD at University of Maryland College Park where I was advised by [Prof. Samir Khuller](http://www.cs.umd.edu/users/samir/). During my PhD, I visited Northwestern University for two years. I am interested in learning theory, algorithmic fairness, and combinatorial optimization.
 
 Contact: "[firstname]@ttic.edu"
 
