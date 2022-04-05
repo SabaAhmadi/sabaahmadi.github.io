@@ -24,7 +24,7 @@ Contact: "[firstname]@ttic.edu"
 
 **On Scheduling Coflows** <sup>abc</sup> Saba Ahmadi, Samir Khuller, Manish Purohit, and Sheng Yang. IPCO 2017. Full version appeared in Algorithmica. ([long version](https://sabaahmadi.github.io/files/coflow.pdf))
 
-**The Landscape of Receptor-Mediated Precision Cancer Combination Therapy: A Single-Cell Perspective** Saba Ahmadi<sup>\*</sup>, Pattara Sukprasert<sup>\*</sup>, Rahulsimham Vegesna,  Sanju Sinha, Fiorella Schischlik, Natalie Artzi, Samir Khuller, Alejandro A. Schäffer, and Eytan Ruppin, Nature Communications.( <sup>\*</sup> equal contribution.) ([biorxiv version](https://www.biorxiv.org/content/10.1101/2020.01.28.923532v4.full.pdf+html))
+**The Landscape of Receptor-Mediated Precision Cancer Combination Therapy: A Single-Cell Perspective** Saba Ahmadi<sup>\*</sup>, Pattara Sukprasert<sup>\*</sup>, Rahulsimham Vegesna,  Sanju Sinha, Fiorella Schischlik, Natalie Artzi, Samir Khuller, Alejandro A. Schäffer, and Eytan Ruppin, Nature Communications.( <sup>\*</sup> equal contribution) ([biorxiv version](https://www.biorxiv.org/content/10.1101/2020.01.28.923532v4.full.pdf+html))
 
 
 ## Manuscripts 
