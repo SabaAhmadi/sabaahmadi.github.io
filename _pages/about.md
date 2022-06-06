@@ -14,7 +14,7 @@ Contact: "[firstname]@ttic.edu"
 
 
 ## Publications
-**Individual Preference Stability for Clustering** <sup>abc</sup> Saba Ahmadi, Pranjal Awasthi, Samir Khuller, Matthäus Kleindessner, Jamie Morgenstern, Pattara Sukprasert, Ali Vakilian, ICML 2022.
+**Individual Preference Stability for Clustering** <sup>abc</sup> Saba Ahmadi, Pranjal Awasthi, Samir Khuller, Matthäus Kleindessner, Jamie Morgenstern, Pattara Sukprasert, Ali Vakilian. ICML 2022.
 
 **On Classification of Strategic Agents who Can Both Game and Improve** <sup>abc</sup> Saba Ahmadi, Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. FORC 2022, ([arxiv version](https://arxiv.org/pdf/2203.00124.pdf))
 
