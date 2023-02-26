@@ -12,6 +12,8 @@ I am a postdoctoral researcher at Toyota Technological Institute at Chicago (TTI
 
 Contact: "[firstname]@ttic.edu"
 
+##Preprints
+**Setting Fair Incentives to Maximize Improvement** <sup>abc</sup> Saba Ahmadi, Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. ([arxiv version](https://arxiv.org/pdf/2203.00134.pdf))
 
 ## Publications
 **Individual Preference Stability for Clustering** <sup>abc</sup> Saba Ahmadi, Pranjal Awasthi, Samir Khuller, Matthäus Kleindessner, Jamie Morgenstern, Pattara Sukprasert, Ali Vakilian. ICML 2022.
@@ -29,9 +31,7 @@ Contact: "[firstname]@ttic.edu"
 **The Landscape of Receptor-Mediated Precision Cancer Combination Therapy: A Single-Cell Perspective** Saba Ahmadi<sup>\*</sup>, Pattara Sukprasert<sup>\*</sup>, Rahulsimham Vegesna,  Sanju Sinha, Fiorella Schischlik, Natalie Artzi, Samir Khuller, Alejandro A. Schäffer, and Eytan Ruppin, Nature Communications.( <sup>\*</sup> equal contribution) ([biorxiv version](https://www.biorxiv.org/content/10.1101/2020.01.28.923532v4.full.pdf+html))([journal version](https://www.nature.com/articles/s41467-022-29154-2.pdf))
 
 
-## Manuscripts 
-
-**Setting Fair Incentives to Maximize Improvement** <sup>abc</sup> Saba Ahmadi, Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. ([arxiv version](https://arxiv.org/pdf/2203.00134.pdf))
+## Old Manuscripts 
 
 **Fair Correlation Clustering** <sup>abc</sup> Saba Ahmadi, Sainyam Galhotra, Barna Saha, and Roy Schwartz, ([arxiv version](https://arxiv.org/abs/2002.03508))
 
