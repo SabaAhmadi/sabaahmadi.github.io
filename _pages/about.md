@@ -12,7 +12,7 @@ I am a postdoctoral researcher at Toyota Technological Institute at Chicago (TTI
 
 Contact: "[firstname]@ttic.edu"
 
-##Preprints
+## Preprints
 **Setting Fair Incentives to Maximize Improvement** <sup>abc</sup> Saba Ahmadi, Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. ([arxiv version](https://arxiv.org/pdf/2203.00134.pdf))
 
 ## Publications
