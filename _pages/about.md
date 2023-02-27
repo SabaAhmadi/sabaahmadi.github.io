@@ -13,7 +13,9 @@ I am a postdoctoral researcher at Toyota Technological Institute at Chicago (TTI
 Contact: "[firstname]@ttic.edu"
 
 ## Preprints
-**Setting Fair Incentives to Maximize Improvement** <sup>abc</sup> Saba Ahmadi, Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. ([arxiv version](https://arxiv.org/pdf/2203.00134.pdf))
+**Fundamental Bounds on Online Strategic Classification** with Avrim Blum and Kunhe Yang. ([arxiv version](https://arxiv.org/pdf/2302.12355.pdf))
+
+**Setting Fair Incentives to Maximize Improvement** with Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. ([arxiv version](https://arxiv.org/pdf/2203.00134.pdf))
 
 ## Publications
 **Individual Preference Stability for Clustering** <sup>abc</sup> Saba Ahmadi, Pranjal Awasthi, Samir Khuller, Matthäus Kleindessner, Jamie Morgenstern, Pattara Sukprasert, Ali Vakilian. ICML 2022.
