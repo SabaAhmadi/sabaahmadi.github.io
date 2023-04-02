@@ -18,9 +18,10 @@ Contact: "[firstname]@ttic.edu"
 
 **Fundamental Bounds on Online Strategic Classification** <sup>abc</sup> Saba Ahmadi, Avrim Blum and Kunhe Yang. ([arxiv version](https://arxiv.org/pdf/2302.12355.pdf))
 
-**Setting Fair Incentives to Maximize Improvement** <sup>abc</sup> Saba Ahmadi, Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. ([arxiv version](https://arxiv.org/pdf/2203.00134.pdf))
-
 ## Publications
+
+**Setting Fair Incentives to Maximize Improvement** <sup>abc</sup> Saba Ahmadi, Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. FORC 2023, ([arxiv version](https://arxiv.org/pdf/2203.00134.pdf))
+
 **Individual Preference Stability for Clustering** <sup>abc</sup> Saba Ahmadi, Pranjal Awasthi, Samir Khuller, Matthäus Kleindessner, Jamie Morgenstern, Pattara Sukprasert, Ali Vakilian. ICML 2022.
 
 **On Classification of Strategic Agents who Can Both Game and Improve** <sup>abc</sup> Saba Ahmadi, Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. FORC 2022, ([arxiv version](https://arxiv.org/pdf/2203.00124.pdf))
