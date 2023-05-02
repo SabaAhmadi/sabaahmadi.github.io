@@ -16,9 +16,9 @@ Contact: "[firstname]@ttic.edu"
 
 **Certifiable (Multi)Robustness Against Patch Attacks Using ERM** <sup>abc</sup> Saba Ahmadi, Avrim Blum, Omar Montasser and Kevin Stangl. ([arxiv version](https://arxiv.org/pdf/2303.08944.pdf))
 
-**Fundamental Bounds on Online Strategic Classification** <sup>abc</sup> Saba Ahmadi, Avrim Blum and Kunhe Yang. ([arxiv version](https://arxiv.org/pdf/2302.12355.pdf))
-
 ## Publications
+
+**Fundamental Bounds on Online Strategic Classification** <sup>abc</sup> Saba Ahmadi, Avrim Blum and Kunhe Yang. EC 2023, ([arxiv version](https://arxiv.org/pdf/2302.12355.pdf))
 
 **Setting Fair Incentives to Maximize Improvement** <sup>abc</sup> Saba Ahmadi, Hedyeh Beyhaghi, Avrim Blum, and Keziah Naggita. FORC 2023, ([arxiv version](https://arxiv.org/pdf/2203.00134.pdf))
 
