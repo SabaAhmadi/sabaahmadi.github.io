@@ -12,11 +12,9 @@ I am a postdoctoral researcher at Toyota Technological Institute at Chicago (TTI
 
 Contact: "[firstname]@ttic.edu"
 
-## Preprints
-
-**Certifiable (Multi)Robustness Against Patch Attacks Using ERM** with Avrim Blum, Omar Montasser and Kevin Stangl. ([arxiv version](https://arxiv.org/pdf/2303.08944.pdf))
 
 ## Publications
+**Certifiable (Multi)Robustness Against Patch Attacks Using ERM** with Avrim Blum, Omar Montasser and Kevin Stangl. AISTATS 2024, ([arxiv version](https://arxiv.org/pdf/2303.08944.pdf))
 
 **Fundamental Bounds on Online Strategic Classification** with Avrim Blum and Kunhe Yang. EC 2023, ([arxiv version](https://arxiv.org/pdf/2302.12355.pdf))
 
