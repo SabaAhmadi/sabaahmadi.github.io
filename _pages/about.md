@@ -12,6 +12,8 @@ I am a postdoctoral researcher at Toyota Technological Institute at Chicago (TTI
 
 Contact: "[firstname]@ttic.edu"
 
+## Working Papers
+**Distributional Robust Loss** with Siddharth Bhandari, Prabhav Jain, and Avrim Blum.
 
 ## Publications
 **Certifiable (Multi)Robustness Against Patch Attacks Using ERM** with Avrim Blum, Omar Montasser and Kevin Stangl. AISTATS 2024, ([arxiv version](https://arxiv.org/pdf/2303.08944.pdf))
