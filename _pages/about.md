@@ -12,6 +12,8 @@ I am a postdoctoral researcher at Toyota Technological Institute at Chicago (TTI
 
 Contact: "[firstname]@ttic.edu"
 
+## Preprints
+**Distributional Adversarial Loss** with Siddharth Bhandari, Avrim Blum, Chen Dan, Prabhav Jain ([arxiv version](https://arxiv.org/pdf/2406.03458))
 
 ## Publications
 **Agnostic Multi-Robust Learning Using ERM** with Avrim Blum, Omar Montasser and Kevin Stangl. AISTATS 2024, ([arxiv version](https://arxiv.org/pdf/2303.08944.pdf))
