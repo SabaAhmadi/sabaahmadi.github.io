@@ -15,9 +15,9 @@ Contact: "[firstname]@ttic.edu"
 ## Preprints
 **Distributional Adversarial Loss** with Siddharth Bhandari, Avrim Blum, Chen Dan, Prabhav Jain ([arxiv version](https://arxiv.org/pdf/2406.03458))
 
-**Strategic Littlestone Dimension: Improved Bounds on Online Strategic Classification** with Kunhe Yang, and Hanrui Zhang ([arxiv version](https://arxiv.org/pdf/2407.11619))
-
 ## Publications
+**Strategic Littlestone Dimension: Improved Bounds on Online Strategic Classification** with Kunhe Yang, and Hanrui Zhang. NeurIPS 2024, ([arxiv version](https://arxiv.org/pdf/2407.11619))
+
 **Agnostic Multi-Robust Learning Using ERM** with Avrim Blum, Omar Montasser and Kevin Stangl. AISTATS 2024, ([arxiv version](https://arxiv.org/pdf/2303.08944.pdf))
 
 **Fundamental Bounds on Online Strategic Classification** with Avrim Blum and Kunhe Yang. EC 2023, ([arxiv version](https://arxiv.org/pdf/2302.12355.pdf))
