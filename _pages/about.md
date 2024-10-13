@@ -12,7 +12,8 @@ I am a postdoctoral researcher at Toyota Technological Institute at Chicago (TTI
 
 Contact: "[firstname]@ttic.edu"
 
-**I'm on the 2024-2025 academic job market.**
+**I'm on the 2024-2025 academic job market. [CV](https://sabaahmadi.github.io/files/CV-Saba.pdf)**
+
 
 ## Preprints
 **Distributional Adversarial Loss** with Siddharth Bhandari, Avrim Blum, Chen Dan, Prabhav Jain ([arxiv version](https://arxiv.org/pdf/2406.03458))
