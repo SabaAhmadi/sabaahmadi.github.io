@@ -19,7 +19,7 @@ Contact: "[firstname]@ttic.edu"
 ## Preprints
 **Distributional Adversarial Loss** with Siddharth Bhandari, Avrim Blum, Chen Dan, Prabhav Jain ([arxiv version](https://arxiv.org/pdf/2406.03458))
 
-**Strategic Filtering for Content Moderation: Free Speech or Free of Distortion?** with Avrim Blum, Haifeng Xu, Fan Yao.
+**Strategic Filtering for Content Moderation: Free Speech or Free of Distortion?** with Avrim Blum, Haifeng Xu, Fan Yao, under submission.
 
 ## Publications
 **Strategic Littlestone Dimension: Improved Bounds on Online Strategic Classification** with Kunhe Yang, and Hanrui Zhang. NeurIPS 2024, ([arxiv version](https://arxiv.org/pdf/2407.11619))
