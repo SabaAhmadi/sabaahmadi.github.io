@@ -12,8 +12,12 @@ I am a postdoctoral researcher at Toyota Technological Institute at Chicago (TTI
 
 Contact: "[firstname]@ttic.edu"
 
+**I'm on the 2024-2025 academic job market.**
+
 ## Preprints
 **Distributional Adversarial Loss** with Siddharth Bhandari, Avrim Blum, Chen Dan, Prabhav Jain ([arxiv version](https://arxiv.org/pdf/2406.03458))
+
+**Strategic Filtering for Content Moderation: Free Speech or Free of Distortion?** with Avrim Blum, Haifeng Xu, Fan Yao.
 
 ## Publications
 **Strategic Littlestone Dimension: Improved Bounds on Online Strategic Classification** with Kunhe Yang, and Hanrui Zhang. NeurIPS 2024, ([arxiv version](https://arxiv.org/pdf/2407.11619))
