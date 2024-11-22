@@ -19,6 +19,8 @@ Contact: "[firstname]@ttic.edu"
 ## Preprints
 **Distributional Adversarial Loss** with Siddharth Bhandari, Avrim Blum, Chen Dan, Prabhav Jain ([arxiv version](https://arxiv.org/pdf/2406.03458))
 
+**Replicable Online Learning** with Siddharth Bhandari and Avrim Blum. ([arxiv](https://arxiv.org/pdf/2411.13730))
+
 **Strategic Filtering for Content Moderation: Free Speech or Free of Distortion?** with Avrim Blum, Haifeng Xu, Fan Yao, under submission.
 
 ## Publications
