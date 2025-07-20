@@ -12,8 +12,6 @@ I am a postdoctoral researcher at Toyota Technological Institute at Chicago (TTI
 
 Contact: "[firstname]@ttic.edu"
 
-**I'm on the 2024-2025 job market.**
-**[Curriculum Vitae](https://sabaahmadi.github.io/files/Resume.pdf)**
 
 
 ## Preprints
