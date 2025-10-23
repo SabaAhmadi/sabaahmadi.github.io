@@ -8,18 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at Toyota Technological Institute at Chicago (TTIC) hosted by [Prof. Avrim Blum](https://home.ttic.edu/~avrim/). Currently, I am supported by [Simons Collaboration on the Theory of Algorithmic Fairness](https://toc4fairness.org/). Prior to joining TTIC I did my PhD at University of Maryland College Park where I was advised by [Prof. Samir Khuller](http://www.cs.umd.edu/users/samir/). I am interested in foundations of machine learning, algorithmic game theory/mechanism design, foundations of responsible computing and theoretical computer science.
+I am a Senior Machine Learning Scientist at Cleveland Clinic.
+
+Prior to that I was a postdoctoral researcher at Toyota Technological Institute at Chicago (TTIC) hosted by [Prof. Avrim Blum](https://home.ttic.edu/~avrim/). Currently, I am supported by [Simons Collaboration on the Theory of Algorithmic Fairness](https://toc4fairness.org/). Prior to joining TTIC I did my PhD at University of Maryland College Park where I was advised by [Prof. Samir Khuller](http://www.cs.umd.edu/users/samir/). I am interested in foundations of machine learning, algorithmic game theory/mechanism design, foundations of responsible computing and theoretical computer science.
 
 Contact: "[firstname]@ttic.edu"
 
 
 
 ## Preprints
-**Replicable Online Learning** with Siddharth Bhandari and Avrim Blum. ([arxiv](https://arxiv.org/pdf/2411.13730))
 
 **Strategic Filtering for Content Moderation: Free Speech or Free of Distortion?** with Avrim Blum, Haifeng Xu, Fan Yao, under submission.
 
 ## Publications
+**Replicable Online Learning** with Siddharth Bhandari and Avrim Blum. NeurIPS 2025 ([arxiv](https://arxiv.org/pdf/2411.13730))
+
 **Distributional Adversarial Loss** with Siddharth Bhandari, Avrim Blum, Chen Dan, Prabhav Jain. AISTATS 2025 ([arxiv version](https://arxiv.org/pdf/2406.03458))
 
 **Strategic Littlestone Dimension: Improved Bounds on Online Strategic Classification** with Kunhe Yang, and Hanrui Zhang. NeurIPS 2024, ([arxiv version](https://arxiv.org/pdf/2407.11619))
