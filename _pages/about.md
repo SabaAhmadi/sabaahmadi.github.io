@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Machine Learning Scientist at Cleveland Clinic.
+I am a Senior Machine Learning Scientist at the Cleveland Clinic.
 
-Prior to that I was a postdoctoral researcher at Toyota Technological Institute at Chicago (TTIC) hosted by [Prof. Avrim Blum](https://home.ttic.edu/~avrim/). Currently, I am supported by [Simons Collaboration on the Theory of Algorithmic Fairness](https://toc4fairness.org/). Prior to joining TTIC I did my PhD at University of Maryland College Park where I was advised by [Prof. Samir Khuller](http://www.cs.umd.edu/users/samir/). I am interested in foundations of machine learning, algorithmic game theory/mechanism design, foundations of responsible computing and theoretical computer science.
+Prior to that, I was a postdoctoral researcher at Toyota Technological Institute at Chicago (TTIC) hosted by [Prof. Avrim Blum](https://home.ttic.edu/~avrim/). Prior to joining TTIC I did my PhD at the University of Maryland College Park where I was advised by [Prof. Samir Khuller](http://www.cs.umd.edu/users/samir/). I am interested in foundations of machine learning, algorithmic game theory/mechanism design, foundations of responsible computing and theoretical computer science.
 
 Contact: "[firstname]@ttic.edu"
+
 
 
 
